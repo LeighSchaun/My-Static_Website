@@ -1,0 +1,60 @@
+
+ 
+  .card:hover{
+
+    transform: scale(1.1);
+    z-index: 1;
+    margin-left: 5px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    
+    
+
+
+  }
+
+  .card{
+
+    height: 300px;
+    width: 350px;
+     
+    background-color: aqua; 
+    margin-bottom: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-left: 5px;
+
+  }
+
+  .btn{
+    background-color: green;
+    display: flex;
+   
+    
+
+  }
+
+
+  .page{
+    background-color: rgb(116, 109, 109);
+  }
+
+  .card-img-top{
+
+    padding: 5px;
+    height: 10rem;
+  }
+
+  .container{
+    justify-content: center;
+    display: grid;
+  }
+
+  h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+    color: white;
+    display: grid;
+    justify-content: center;
+  }
